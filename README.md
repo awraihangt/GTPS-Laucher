@@ -1,6 +1,6 @@
 # GTPS-Laucher
 
-##Credit
+## Credit
 - Project inspired by: [wild](https://github.com/awraihangt)
 - Some code [Here](https://coderrocketfuel.com/article/get-the-total-size-of-all-files-in-a-directory-using-node-js)
 
