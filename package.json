@@ -1,0 +1,23 @@
+{
+  "name": "launcher",
+  "version": "1.0.0",
+  "description": "this project will help you to connect gtps server",
+  "main": "launcher.js",
+  "scripts": {
+    "test": "node launcher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awraihangt/GTPS-Launcher.git"
+  },
+  "keywords": [
+    "gtps",
+    "launcher"
+  ],
+  "author": "wild",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awraihangt/GTPS-Launcher/issues"
+  },
+  "homepage": "https://github.com/awraihangt/GTPS-Launcher#readme"
+}
